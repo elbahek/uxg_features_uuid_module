@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the UXG Features - UUID Module feature.
+ */
+
+include_once 'uxg_features_uuid_module.features.inc';
